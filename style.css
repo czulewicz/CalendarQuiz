@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+    color: #FB5B05
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    border-spacing: 5px;
+}
+
+th, td {
+    padding: 3px 5px 0px 0px;
+}
+
+th {
+    color: white;
+    background-color: #FB5B05;
+}
+
+td {
+    background-color: #ECEAD1;
+    text-align: right;
+    vertical-align: top;
+    height: 60px;
+}
+
+.weekend {
+    background-color: #CAD2C5;
+}
+
+#birthday {
+    background-color: #C0DCE0;
+}
+
+li {
+    list-style-type: "🍰";
+    padding-inline-start: 1ch;
+}
+
